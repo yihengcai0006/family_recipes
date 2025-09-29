@@ -2,6 +2,6 @@
 
 Set of recipes as given by my ###
 
-* Pizzas (TODO)
-* Sauces (TODO)
+* Pizas (TODO)
+* Sauses (TODO)
 * Spreads (TODO)
